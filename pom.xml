@@ -17,6 +17,7 @@
         <module>common-modules/design-parttern</module>
         <module>core-java-modules/core-java8</module>
         <module>core-java-modules/core-java-juc</module>
+        <module>core-java-modules/core-java-performance</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
